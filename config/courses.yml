@@ -1,0 +1,9 @@
+courses:
+  rocket:
+    domain: rocket.connectedacademy.io
+    repo: https://github.com/connectedacademy/rocket
+    url: https://rocket.connectedacademy.io
+  researchmethods:
+    domain: researchmethods.connectedacademy.io
+    repo: https://github.com/connectedacademy/researchmethods
+    url: https://researchmethods.connectedacademy.io
